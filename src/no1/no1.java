@@ -2,7 +2,7 @@ package no1;
 
 public class no1 {
     public static void getNo1(){
-        int randomArray[] = {71,4,6,9,12,10,23,17,2,8,5,29,87,96,65};
+        int randomArray[] = {32,54,12,87,44,65,123,431,561,23,98,318,572,341,853};
         for(int i = 0; i < randomArray.length; i++) {
             if(randomArray[i] % 2 == 0) {
                 System.out.println(randomArray[i] + " --> Bilangan Genap");
